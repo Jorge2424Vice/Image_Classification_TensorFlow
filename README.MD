@@ -26,7 +26,7 @@ the model. I split the data into training, validation and testing sets and organ
 
 For the predict.py file, the code runs from the command line in the following manner utilizing my_model.h5.
 
-![Basic Usage](../readme_images/basic_usage.PNG)
+![Basic Usage](https://github.com/jatp24/Image_Classification_TensorFlow/blob/master/readme_images/basic_usage.PNG)
 
 * image_path - path of image to evaluate.
 * model_path - path of tensorflow keras model.
@@ -37,11 +37,11 @@ For the predict.py file, the code runs from the command line in the following ma
 
 #### Example of output:<br>
 
-![Predict.py output](../readme_images/predict_print.PNG)
+![Predict.py output](https://github.com/jatp24/Image_Classification_TensorFlow/blob/master/readme_images/predict_print.PNG)
 
 
 <br><br>
 ## Requirements: <br>
 The following are requirements to run predict.py.
 
- ![Requirements](../readme_images/requirements_image.PNG)
+ ![Requirements](https://github.com/jatp24/Image_Classification_TensorFlow/blob/master/readme_images/requirements_image.PNG)
