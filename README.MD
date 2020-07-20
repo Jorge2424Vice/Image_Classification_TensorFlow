@@ -44,4 +44,4 @@ For the predict.py file, the code runs from the command line in the following ma
 ## Requirements: <br>
 The following are requirements to run predict.py.
 
- ![Requirements](.\readme_images\requirements_image.png)
+ ![Requirements](..\readme_images\requirements_image.png)
