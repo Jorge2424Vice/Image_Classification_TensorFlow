@@ -1,5 +1,5 @@
 # Image Classifier Using Tensorflow <br>
-This project is broken out into two objectives, the first is creating a jupyter notebook that creates a Tensorflow Keras model and a python application that runs on the command line. The project classifies flower images among 102 classes of different flowers and provides probabilities for each assignment.
+This project is broken out into two objectives, the first is creating a jupyter notebook that creates a Tensorflow Keras model and the second is a python application that runs on the command line. The project classifies flower images among 102 classes of different flowers and provides probabilities for each assignment.
  <br> <br>
 
 ## Motivation <br>
