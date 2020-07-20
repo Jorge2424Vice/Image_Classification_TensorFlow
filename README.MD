@@ -37,7 +37,7 @@ For the predict.py file, the code runs from the command line in the following ma
 
 #### Example of output:<br>
 
-![Predict.py output](./readme_images/predict_print.png)
+![Predict.py output](../readme_images/predict_print.png)
 
 
 <br><br>
